@@ -34,7 +34,8 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
     ![image](https://user-images.githubusercontent.com/101499377/169867229-26a6391f-fef4-448e-905d-ce86595572a0.png)<p>
 ![image](https://user-images.githubusercontent.com/101499377/169867367-8b594919-610f-40b5-a161-a287faa492c8.png)<p>
 ### Mengubah Data (Update)<p>
-    Buat file baru dengan nama <b>ubah.php</b><p>
+  Buat file baru dengan nama <b>ubah.php</b> <p>
+      
     
 
 
