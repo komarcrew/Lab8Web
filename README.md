@@ -35,7 +35,12 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 ![image](https://user-images.githubusercontent.com/101499377/169867367-8b594919-610f-40b5-a161-a287faa492c8.png)<p>
 ### Mengubah Data (Update)<p>
   Buat file baru dengan nama <b>ubah.php</b> <p>
-      
-    
-
-
+    ![image](https://user-images.githubusercontent.com/101499377/170322311-6c08a020-7c70-4857-8f03-738de246326a.png)
+![image](https://user-images.githubusercontent.com/101499377/170322581-30a6790c-cb92-48de-97bf-1634b832736c.png)
+![image](https://user-images.githubusercontent.com/101499377/170322849-1308a689-4efb-4570-b8a0-e759018b02ac.png)
+![image](https://user-images.githubusercontent.com/101499377/170323024-438462a9-b365-4622-9534-11f1f4d03aae.png)
+![image](https://user-images.githubusercontent.com/101499377/170323630-f58e4365-b2ff-434e-a4da-7b2fe89c6a7e.png)
+### Menghapus Data (Delete)
+Buat file baru dengan nama <b>hapus.php</b> <p>
+  ![image](https://user-images.githubusercontent.com/101499377/170327622-6be8397d-e752-4c5e-9db0-44a53ac3df2a.png)
+![image](https://user-images.githubusercontent.com/101499377/170329666-a8a1c2f1-43bf-4b41-a3c1-c653702f6624.png)
